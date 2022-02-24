@@ -7,7 +7,7 @@ Welcome to discuss and feedback. And feel free to raise issues.
 Update each weekend.
 
 
-| #    | Problem      | data structure/algo    |   Language   |  Code   |    Solution   |   Difficulty  |    Date  |
+| #    | Problem      | data structure/algo    |   Language   |  Code   |    Solution (Chinese)   |   Difficulty  |    Date  |
 | ---- | -----------| ------- |------- | ------- |  ------- |  ------- | ------- |
 | 62 |[Unique Paths](https://leetcode-cn.com/problems/unique-paths/)|Dynamic programming|Python|[code](https://github.com/Cli98/Algorithm-collection/blob/main/problem%20set/62.%20Unique%20Paths.py)|[solution](https://github.com/Cli98/Algorithm-collection/blob/main/solution/62.%20Unique%20Paths.md) |Medium| 02/13/2022
 | 322 |[Coin Change](https://leetcode-cn.com/problems/coin-change/)|Dynamic programming|Python|[code](https://github.com/Cli98/Algorithm-collection/blob/main/problem%20set/322.%20Coin%20Change.py)|[solution](https://github.com/Cli98/Algorithm-collection/blob/main/solution/322.%20Coin%20Change.md) |Medium| 02/20/2022
